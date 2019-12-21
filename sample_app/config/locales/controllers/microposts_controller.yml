@@ -1,0 +1,9 @@
+en:
+  micropost_created: "Micropost created"
+  micropost_deleted: "Micropost deleted"
+  micropost_cannot_delete: "Can't delete this micropost!"
+
+vi:
+  micropost_created: "Bài viết đã được đăng"
+  micropost_deleted: "Bài viết đã được xoá"
+  micropost_cannot_delete: "Không thể xoá bài viết này!"

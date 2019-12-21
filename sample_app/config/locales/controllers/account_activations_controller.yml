@@ -1,0 +1,7 @@
+en:
+  account_activated: "Account activated!"
+  invalid_link: "Invalid activation link"
+
+vi:
+  account_activated: "Tài khoản đã được kích hoạt"
+  invalid_link: "Đường dẫn kích hoạt không hợp lệ"

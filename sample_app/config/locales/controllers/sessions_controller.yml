@@ -1,0 +1,9 @@
+en:
+  invalid_error: "Invalid email/password combination"
+  not_activated: "Account not activated."
+  check_email_for_link: "Check your email for the activation link."
+
+vi:
+  invalid_error: "Mật khẩu hoặc email không hợp lệ"
+  not_activated: "Tài khoản chưa được kích hoạt"
+  check_email_for_link: "Kiểm tra thư điện tử để lấy đường dẫn kích hoạt"

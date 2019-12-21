@@ -1,0 +1,21 @@
+en:
+  app_name: "Sample App"
+  home: "Home"
+  help: "Help"
+  user: "Users"
+  account: "Account"
+  profile: "Profile"
+  setting: "Settings"
+  login: "Log in"
+  logout: "Log out"
+
+vi:
+  app_name: "Ứng dụng mẫu"
+  home: "Trang chủ"
+  help: "Trợ giúp"
+  user: "Người dùng"
+  account: "Tài khoản"
+  profile: "Hồ sơ"
+  setting: "Cài đặt"
+  login: "Đăng nhập"
+  logout: "Đăng xuất"

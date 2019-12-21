@@ -1,0 +1,7 @@
+en:
+  reset_password: "Reset password"
+  update_password: "Update password"
+
+vi:
+  reset_password: "Đặt lại mật khẩu"
+  update_password: "Cập nhật mật khẩu"

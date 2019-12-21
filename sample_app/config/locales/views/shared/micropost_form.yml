@@ -1,0 +1,9 @@
+en:
+  micropost_holder: "What are you thinking?"
+  post: "Post"
+  big_size_alert: "Maximum file size is 5MB. Please choose a smaller file."
+
+vi:
+  post: "Đăng lên"
+  big_size_alert: "Kích thước lớn nhất của file là 5MB. Hãy chọn file khác"
+  micropost_holder: "Bạn đang nghĩ gì?"

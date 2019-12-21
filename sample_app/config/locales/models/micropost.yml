@@ -1,0 +1,5 @@
+en:
+  pic_size_warning: "should be less than 5MB"
+
+vi:
+  pic_size_warning: "kích thước cần nhỏ hơn 5MB"

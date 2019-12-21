@@ -1,0 +1,15 @@
+en:
+  email: "Email"
+  pass: "Password"
+  remember: "Remember me on this computer"
+  new_user: "New user?"
+  sign_up_now: "Sign up now!"
+  forgot_password: "(forgot password)"
+
+vi:
+  email: "Thư điện tử"
+  pass: "Mật khẩu"
+  remember: "Duy trì đăng nhập trên máy tính này"
+  new_user: "Người dùng mới?"
+  sign_up_now: "Đăng kí ngay bây giờ!"
+  forgot_password: "(quên mật khẩu)"
