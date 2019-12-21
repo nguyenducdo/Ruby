@@ -8,7 +8,7 @@ gem "carrierwave", "~> 1.2", ">= 1.2.3"
 gem "faker", "1.9.1"
 gem "figaro", "~> 1.1", ">= 1.1.1"
 gem "kaminari"
-gem "mini_magick", "~> 4.8"
+gem "mini_magick", "~> 4.9"
 gem "sidekiq", "~> 5.0", ">= 5.0.5"
 
 gem "puma", "~> 3.11"
