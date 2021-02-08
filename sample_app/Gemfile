@@ -4,7 +4,7 @@ git_source(:github){|repo| "https://github.com/#{repo}.git"}
 ruby "2.5.1"
 gem "bcrypt", "3.1.12"
 gem "bootstrap4-kaminari-views"
-gem "carrierwave", "~> 1.2", ">= 1.2.3"
+gem "carrierwave", "~> 1.3"
 gem "faker", "1.9.1"
 gem "figaro", "~> 1.1", ">= 1.1.1"
 gem "kaminari"
